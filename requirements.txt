@@ -1,0 +1,5 @@
+snowflake-connector-python
+requests
+schedule
+python-dotenv
+pandas
